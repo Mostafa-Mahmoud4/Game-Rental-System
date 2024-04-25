@@ -1,28 +1,21 @@
-# Game-Rental-System-Using-C-Sharp-SQL
+# Game Rental System
 
-A game rental system provides an easy and cost effective way to rent new games without having to buy everyone of them.
+A game rental system provides an easy and cost-effective way to rent new games without having to buy every one of them. It allows users to try new games risk-free before making a purchase.
 
-Game rental is a risk-free way to try new games
+## Features
 
-Each game has a vendor who has the responsibility of developing the game.
+The Game Rental System includes the following functionalities:
 
-The admin of the system is responsible for adding games to be rented out by clients.
+- **User Management**:
+  - Signing up a new user (e.g., admin, client).
+  - Updating user details.
 
-The System includes the following functionalities:
-
--Siging Up a new User (eg.admin,client)
-
--Updating a user details.
-
--Adding a game (by admin).
-
--Updating a game details (by admin).
-
--Browsing games.
-
--Showing a list of games that satifsy certain criteria (e.g year,vendor,cateogry,..)
-
--Performing Operations on games: renting , returning 
+- **Game Management**:
+  - Adding a game (by admin).
+  - Updating game details (by admin).
+  - Browsing games.
+  - Showing a list of games that satisfy certain criteria (e.g., year, vendor, category).
+  - Performing operations on games: renting, returning.
 
 
 ![Screenshot 2023-05-11 002724](https://github.com/KhaledAtef00/Game-Rental-System-Using-C-Sharp-SQL/assets/105244576/dc7e95b6-a6e3-47b2-b40d-27c28cf28db7)
